@@ -1,0 +1,75 @@
+========================================================================
+ FASE A — VISIÓN DE ARQUITECTURA
+ APLICACIÓN DE TOGAF A LA MUNICIPALIDAD METROPOLITANA DE LIMA (MML)
+ Grupo 3 — Correcciones aplicadas según Auditoría de Consistencia TOGAF
+========================================================================
+
+Este paquete contiene los 4 documentos de la Fase A, con las
+correcciones derivadas del documento "Auditoría de Consistencia TOGAF —
+MML" ya absueltas.
+
+------------------------------------------------------------------------
+CONTENIDO Y ESTADO DE CADA DOCUMENTO
+------------------------------------------------------------------------
+
+1) Architecture_Vision_MML.docx
+   Hallazgo auditoría: la Sección 6.2 "Principios de TI" afirmaba un
+   "catálogo de 15 principios" que no coincidía con los 8 realmente
+   documentados en la Fase Preliminar.
+   Corrección:
+   - Resuelto en origen: el catálogo de la Fase Preliminar ya fue
+     desarrollado a 15 principios completos, por lo que la cifra "15"
+     ahora es correcta.
+   - Se reforzó la TRAZABILIDAD (calificada como "Baja" en la auditoría):
+     la Sección 6.2 ahora referencia explícitamente los códigos del
+     catálogo (BP01-BP04, DP01-DP04, AP01-AP04, TP01-TP03) y cada
+     principio rector de la visión lleva su código: Interoperabilidad
+     institucional (DP04, AP04); Orientación al ciudadano (BP02);
+     Seguridad de la información (DP03, TP02); Transparencia y
+     trazabilidad (BP04).
+   - Fecha alineada a Marzo 2026 (ver nota de cronología).
+
+2) Statement_of_Architecture_Work_MML.docx (SoAW)
+   Hallazgo auditoría: la fecha de firma del SoAW (05/06/2026) era
+   POSTERIOR a la revisión de gobierno de la Fase G (20-22/05/2026), lo
+   cual es imposible: se estaría auditando un trabajo que formalmente aún
+   no había sido autorizado.
+   Corrección: la fecha de autorización/firma del SoAW se movió a
+   05/03/2026, de modo que la autorización PRECEDE al trabajo y a la
+   revisión de gobierno de la Fase G. Esto es coherente con la propia
+   duración declarada en el SoAW (12 a 16 semanas).
+
+3) Capability_Assessment_MML.docx
+   Estado auditoría: correcto (usa escala de madurez CMMI/ACMM y evalúa
+   capacidad de negocio, TI, arquitectura y preparación para el cambio).
+   Ajuste: solo fecha alineada a Marzo 2026 por coherencia cronológica.
+   Contenido sin cambios.
+
+4) Communications_Plan_MML.docx
+   Estado auditoría: no presenta observaciones.
+   Ajuste: solo fecha alineada a 05/03/2026 (parte del paquete de
+   arranque de la Fase A, junto con el SoAW). Contenido sin cambios.
+
+------------------------------------------------------------------------
+NOTA DE CRONOLOGÍA (importante)
+------------------------------------------------------------------------
+Toda la Fase A se fechó en MARZO 2026 para que la autorización y los
+entregables PRECEDAN a la revisión de gobierno de la Fase G
+(20-22/05/2026), resolviendo la inconsistencia señalada por la
+auditoría.
+
+Para que la secuencia completa del ADM quede coherente, la Fase
+Preliminar (actualmente fechada en Junio 2026 en el paquete anterior)
+debería moverse a una fecha ANTERIOR a Marzo 2026 (p. ej. Enero/Febrero
+2026), ya que la Fase Preliminar precede a la Fase A. Este ajuste, junto
+con la alineación de fechas del resto de subgrupos, corresponde a la
+"sesión de consolidación" que recomienda la propia auditoría.
+
+------------------------------------------------------------------------
+NOTA DE DOMINIO (decisión de equipo, fuera del alcance de la Fase A)
+------------------------------------------------------------------------
+La auditoría observa una divergencia entre Fase A/B (licencias/tributos)
+y Fase C/D (seguridad ciudadana). Debe consolidarse en sesión de equipo.
+
+Grupo 3 — Fase A (Visión de Arquitectura)
+========================================================================
