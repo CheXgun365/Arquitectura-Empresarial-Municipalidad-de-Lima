@@ -1,0 +1,66 @@
+========================================================================
+ FASE PRELIMINAR — APLICACIÓN DE TOGAF A LA MUNICIPALIDAD METROPOLITANA
+ DE LIMA (MML)
+ Grupo 3 — Correcciones aplicadas según Auditoría de Consistencia TOGAF
+========================================================================
+
+Este paquete contiene los 6 documentos de la Fase Preliminar, con las
+correcciones derivadas del documento "Auditoría de Consistencia TOGAF —
+MML" ya absueltas.
+
+------------------------------------------------------------------------
+CONTENIDO Y ESTADO DE CADA DOCUMENTO
+------------------------------------------------------------------------
+
+1) Architecture_Principles_MML.docx
+   Hallazgo auditoría: el catálogo listaba 15 principios en el resumen
+   pero solo desarrollaba 8 (huecos DP02, DP03, TP02, además de BP03,
+   BP04, AP03, AP04), rompiendo la trazabilidad con la Fase A ("catálogo
+   de 15 principios").
+   Corrección: se desarrollaron los 15 principios completos (BP01-BP04,
+   DP01-DP04, AP01-AP04, TP01-TP03) con estructura TOGAF (Name,
+   Reference, Statement, Rationale, Implications), anclados al marco
+   normativo peruano (D.L. 1412, Ley 29733, MADE, PIDE, ISO/IEC 25012,
+   ISO/IEC 27001). Portada tailorizada a la MML y nota genérica «NB»
+   eliminada.
+
+2) Request_for_Architecture_Work_MML.docx
+   Hallazgo auditoría: encabezado genérico "Project XXX / Client YYY"
+   sin tailorizar.
+   Corrección: portada y tabla Document Information tailorizadas a la
+   MML (Project Name, Grupo 3, v0.1, JUN 2026), Distribution List y
+   Document Version History completadas; nota «NB» eliminada.
+
+3) Tailored_Architecture_Framework_MML.docx
+   Hallazgo auditoría: encabezado genérico sin tailorizar.
+   Corrección: mismos ajustes de tailorizado y metadatos que (2).
+
+4) Organizational_Model_for_EA_MML.docx
+   Hallazgo auditoría: encabezado genérico sin tailorizar.
+   Corrección: mismos ajustes de tailorizado y metadatos que (2).
+
+5) Business_Principles_Goals_Drivers_MML.docx
+   Estado auditoría: contenido correcto y adaptado (aprobado).
+   Ajuste menor: se eliminó la nota genérica «NB» remanente en portada
+   para uniformidad del set. Contenido sin cambios.
+
+6) Architecture_Repository_MML.docx
+   Estado auditoría: bien desarrollado y adaptado (aprobado).
+   Sin cambios de contenido. Se incluye para completar el set.
+
+------------------------------------------------------------------------
+NOTAS PENDIENTES (decisiones de equipo, fuera de la Fase Preliminar)
+------------------------------------------------------------------------
+- Dominio de negocio: la auditoría observa una divergencia entre Fase
+  A/B (licencias/tributos) y Fase C/D (seguridad ciudadana). Debe
+  consolidarse en sesión de equipo. Estos principios están redactados de
+  forma transversal, por lo que sirven para cualquiera de las dos
+  decisiones.
+- El documento "Documento_Definicion_Arquitectura_FaseD" NO pertenece a
+  la Fase Preliminar (es Fase D: Arquitectura de Tecnología) y por eso
+  no se incluye en este paquete.
+- La carpeta de Fase D figura como "Face D" en el repositorio; debería
+  renombrarse a "Fase_D".
+
+Grupo 3 — Junio 2026
+========================================================================
