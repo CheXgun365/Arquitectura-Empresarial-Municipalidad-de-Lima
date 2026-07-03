@@ -1,0 +1,84 @@
+========================================================================
+ FASE C — ARQUITECTURA DE SISTEMAS DE INFORMACIÓN
+ APLICACIÓN DE TOGAF A LA MUNICIPALIDAD METROPOLITANA DE LIMA (MML)
+ Grupo 3 — Correcciones aplicadas según Auditoría de Consistencia TOGAF
+========================================================================
+
+Este paquete contiene los 3 documentos de la Fase C, con las
+correcciones derivadas del documento "Auditoría de Consistencia TOGAF —
+MML" ya absueltas.
+
+------------------------------------------------------------------------
+CONTENIDO Y ESTADO DE CADA DOCUMENTO
+------------------------------------------------------------------------
+
+========================================================================
+ FASE C — ARQUITECTURA DE SISTEMAS DE INFORMACIÓN
+ APLICACIÓN DE TOGAF A LA MUNICIPALIDAD METROPOLITANA DE LIMA (MML)
+ Grupo 3 — Correcciones aplicadas según Auditoría de Consistencia TOGAF
+========================================================================
+
+Este paquete contiene los tres documentos correspondientes a la Fase C,
+los cuales fueron revisados y regularizados para mantener consistencia con
+las fases anteriores y posteriores del proyecto.
+
+------------------------------------------------------------------------
+CONTENIDO Y ESTADO DE CADA DOCUMENTO
+------------------------------------------------------------------------
+
+1) 01_Documento_Definicion_Arquitectura_FaseC.docx
+
+   Hallazgo auditoría:
+   Se identificaron diferencias de terminología y referencias con la
+   arquitectura consolidada del proyecto.
+
+   Corrección:
+   - Se uniformizó la nomenclatura de la Arquitectura de Datos y
+     Arquitectura de Aplicaciones.
+   - Se actualizaron nombres de aplicaciones, repositorios y plataformas.
+   - Se alineó la arquitectura objetivo con la Plataforma Metropolitana
+     de Seguridad.
+   - Se estandarizaron referencias a TOGAF Standard 10th Edition e
+     ISO/IEC 27001:2022.
+
+------------------------------------------------------------------------
+
+2) 02_Especificacion_Requisitos_Arquitectura_FaseC.pdf
+
+   Hallazgo auditoría:
+   Se encontraron diferencias menores en la trazabilidad de requisitos.
+
+   Corrección:
+   - Se homologaron los identificadores y nombres de los requisitos
+     arquitectónicos.
+   - Se actualizaron prioridades y referencias a stakeholders.
+   - Se verificó la consistencia con los requisitos utilizados en las
+     Fases D y E.
+
+------------------------------------------------------------------------
+
+3) 03_Hoja_de_Ruta_Arquitectura_FaseC.docx
+
+   Hallazgo auditoría:
+   Requería alineamiento con el Roadmap consolidado del proyecto.
+
+   Corrección:
+   - Se uniformizaron los Work Packages y componentes arquitectónicos.
+   - Se actualizaron dependencias y entregables de migración.
+   - Se alineó la hoja de ruta con la Arquitectura Objetivo y las fases
+     posteriores del ADM.
+
+------------------------------------------------------------------------
+OBSERVACIONES GENERALES
+------------------------------------------------------------------------
+
+• Se uniformizó la terminología empleada para aplicaciones, datos,
+  componentes y plataformas arquitectónicas, manteniendo consistencia con
+  las fases posteriores del ADM.
+
+• Se verificó la trazabilidad entre la Arquitectura Baseline,
+  Arquitectura Objetivo, Gap Analysis y Roadmap.
+
+• Se actualizaron referencias normativas y estándares tecnológicos
+  utilizados durante el proyecto.
+
