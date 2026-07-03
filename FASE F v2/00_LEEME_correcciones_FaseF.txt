@@ -1,0 +1,61 @@
+========================================================================
+ FASE A — VISIÓN DE ARQUITECTURA
+ APLICACIÓN DE TOGAF A LA MUNICIPALIDAD METROPOLITANA DE LIMA (MML)
+ Grupo 3 — Correcciones aplicadas según Auditoría de Consistencia TOGAF
+========================================================================
+
+Este paquete contiene los 4 documentos de la Fase A, con las
+correcciones derivadas del documento "Auditoría de Consistencia TOGAF —
+MML" ya absueltas.
+
+------------------------------------------------------------------------
+CONTENIDO Y ESTADO DE CADA DOCUMENTO
+------------------------------------------------------------------------
+
+========================================================================
+ FASE F — PLANIFICACIÓN DE MIGRACIÓN
+ APLICACIÓN DE TOGAF A LA MUNICIPALIDAD METROPOLITANA DE LIMA (MML)
+ Grupo 3 — Correcciones aplicadas según Auditoría de Consistencia TOGAF
+========================================================================
+
+Este paquete contiene los tres documentos correspondientes a la Fase F,
+los cuales fueron revisados y regularizados para mantener consistencia con
+las fases anteriores y posteriores del proyecto.
+
+------------------------------------------------------------------------
+CONTENIDO Y ESTADO DE CADA DOCUMENTO
+------------------------------------------------------------------------
+
+1) Architecture_Building_Blocks_MML.docx
+
+   Hallazgo auditoría: Requería alineamiento con la arquitectura consolidada del proyecto.
+
+   Corrección:
+   - Se uniformizó la nomenclatura de los ABB y SBB.
+   - Se actualizaron referencias tecnológicas y normativas.
+   - Se alinearon los componentes con la Plataforma Metropolitana de Seguridad.
+
+------------------------------------------------------------------------
+
+2) TOGAF_F_Architecture_Contract_WP001_MML-1.docx
+
+   Hallazgo auditoría: Se identificaron inconsistencias de trazabilidad y terminología.
+
+   Corrección:
+   - Se homologó el nombre del Work Package y sus entregables.
+   - Se actualizaron roles, responsabilidades y criterios de aceptación.
+   - Se alineó el contrato con la arquitectura objetivo del proyecto.
+
+------------------------------------------------------------------------
+
+3) TOGAF_F-G_Gobierno_Implementacion_MML-1.docx
+
+   Hallazgo auditoría: Documento consistente, con ajustes menores de alineación.
+
+   Corrección:
+   - Se uniformizó la terminología de gobierno arquitectónico.
+   - Se actualizaron referencias a estándares y componentes.
+   - Se alinearon los mecanismos de seguimiento con las fases G y H.
+
+
+
